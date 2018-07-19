@@ -99,7 +99,7 @@ void getSerialData()
     if (user_input =='1')  {
        bSendSerial = true;
     }
-    else if(user_input =='2')  {
+    else if(user_input =='0')  {
       bSendSerial = false;
     }
   }
